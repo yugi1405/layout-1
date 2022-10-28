@@ -1,0 +1,268 @@
+body
+{
+	border:5px solid black;
+}
+.header{
+	background-color:gray;
+
+border:5px solid black;
+}
+.header{}
+h1
+{
+	text-align=centre
+	border:5px solid black;
+}
+
+.yu
+{
+	
+	border:10px soild-black;
+		
+	padding:30px;
+	background-color:lightblue;
+	margin:right;
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+	height:100px;
+	
+}
+.home
+{	width:50px;
+	color:black;
+	background-color:orange;
+	height:20px;
+	flex-wrap:wrap;
+}
+.abot{
+	width:50px;
+	background-color:orange;
+	height:20px;
+}
+.service{
+	width:50px;
+	background-color:orange;
+height:20px;
+flex:wrap;
+}
+.portfoli{
+width:50px;
+	background-color:orange;
+	height:20px;
+}
+.team
+{
+	width:50px;
+	background-color:orange;
+	height:20px;
+}
+.content{
+	width:50px;
+	background-color:orange;
+	height:20px;
+}
+
+.about{
+	
+	flex-wrap:wrap;
+	background-color:blue;
+	margin:100px;
+	display:flex;
+	justify-content:space-around;
+	padding-right=50px;
+	
+	
+	
+	height:50px;
+}
+.about
+{	
+	
+	
+	border:10px orange;
+		height:100px;
+	background-color:grey;
+	padding:100px;
+	display:flex;
+	justify-content:space-around;
+	flex-wrap:wrap;
+	
+}
+
+.iphone-xr
+{	width:50px;
+	color:black;
+	background-color:white;
+	height:20px;
+	flex-wrap:wrap;
+}
+.poco-x3{
+	width:50px;
+	background-color:blue;
+	height:20px;
+}
+.vivo-y19{
+	width:50px;
+	background-color:blue;
+height:20px;
+flex:wrap;
+}
+.oppo-f11{
+width:50px;
+	background-color:blue;
+	height:20px;
+}
+.realme-tab
+{
+	width:50px;
+	background-color:blue;
+	height:30px;
+}
+.oppo-tab
+{
+	width:50px;
+	background-color:white;
+	height:30px;
+}
+.car
+{
+	border:5px;
+	width:90%;
+	text-align:center;
+	height:25px;
+	background-color:lightblue;
+	display:flex;
+	padding:15px;
+    gap:50px;
+    
+}
+
+.container h1,h2,h3{
+	margin-right:20px;
+	text-align : center;
+	padding:10px;
+	text-align:center;
+	display:flex;
+	padding-right:10px;
+    justify-content:space-between;
+    flex-wrap:wrap;
+	width:80%;
+	margin:auto;
+}
+.container .row{
+	
+	margin-bottom:auto;
+	width: 80%;
+	text-align:center;
+	display:flex;
+	flex-wrap:wrap;
+	wrapper:wrap;
+	padding:15px;
+    justify-content:space-between;
+	
+	
+}
+.container2 .col2,.a1{
+	margin:20px;
+	background-color:white;
+	width: 80%;
+	text-align:right;
+	display:flex;
+	flex-wrap:wrap;
+	padding:15px;
+    justify-content:space-around;
+}
+.col2,.a2,.a3,.a4{
+	margin:20px;
+	background-color:white;
+	width: 80%;
+	text-align:center;
+	display:flex;
+	
+	flex-direction:row;
+	flex-wrap:wrap;
+	padding:15px;
+    justify-content:flex-end;
+}
+.a1{
+	width: 300px;
+	height:200px;
+	background-color:grey;
+	
+}
+.a2{
+	width: 200px;
+	height:150px;
+	background-color:grey;
+	
+}
+.a3{
+	width: 200px;
+	height:150px;
+	background-color:grey;
+	
+}
+.a4{
+	width: 200px;
+	height:150px;
+	background-color:grey;
+	
+}
+.container1 .row{
+	
+	margin:30px;
+	background-color:white;
+	width: 80%;
+	text-align:center;
+	display:flex;
+	flex-wrap:wrap;
+	padding:15px;
+    justify-content:space-between;
+}
+
+.p1{
+	width: 250px;
+	height:150px;
+	background-color:grey;
+	
+}
+
+.p2{
+	width: 250px;
+	height:150px;
+	background-color:orange;
+	
+}
+
+.p3{
+	width: 250px;
+	height:150px;
+	background-color:blue;
+
+}
+.p4{
+	width: 250px;
+	height:150px;
+	background-color:yellow;
+
+}
+.p5{
+	width: 250px;
+	height:150px;
+	background-color:brown;
+
+}
+.p6{
+	width: 250px;
+	height:150px;
+	background-color:aqua;
+
+}
+
+.col1{
+	width: 300px;
+	height:150px;
+	background-color:grey;
+	
+}
